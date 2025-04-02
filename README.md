@@ -26,7 +26,7 @@ pip install pynput
 ## Steps to run 
 1. 📥 Clone this repository:
 ```bash
-git clone https://github.com/vaipatel97/kPRODIGY_CS_04.git
+git clone https://github.com/vaipatel97/PRODIGY_CS_04.git
 cd keylogger
 ```
 2. ▶️ Run the script:
